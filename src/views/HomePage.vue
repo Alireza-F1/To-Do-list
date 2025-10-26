@@ -1,6 +1,6 @@
 <script setup>
 import InputForm from '@/components/InputForm.vue'
-import Tasks from '@/components/Tasks.vue'
+import Tasks from '@/components/Tasks/Tasks.vue'
 </script>
 
 <template>

@@ -9,13 +9,14 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "gh-pages -d dist", 
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview",
     "format": "prettier --write src/"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.76.1",
     "@tailwindcss/vite": "^4.1.16",
+    "axios": "^1.12.2",
     "pinia": "^3.0.3",
     "tailwindcss": "^4.1.16",
     "vue": "^3.5.22",
